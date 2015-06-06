@@ -1,0 +1,7 @@
+name             'package-bzip2'
+maintainer       'Rudolph Miller'
+maintainer_email 'chopsticks.tk.ppfm@gmail.com'
+license          'MIT'
+description      'Installs/Configures package-bzip2'
+long_description 'Installs/Configures package-bzip2'
+version          '0.1.0'
