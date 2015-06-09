@@ -1,5 +1,5 @@
 # package-bzip2-cookbook
-[![Build Status](https://circleci.com/gh/Rudolph-Miller/package-bzip2.svg?style=shield)](https://circleci.com/Rudolph-Miller/package-bzip2)
+[![Build Status](https://circleci.com/gh/Rudolph-Miller/package-bzip2.svg?style=shield)](https://circleci.com/gh/Rudolph-Miller/package-bzip2)
 
 TODO: Enter the cookbook description here.
 
